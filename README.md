@@ -7,7 +7,6 @@ I'm a Software Engineering Student at University of Minho who is currently on th
 ### Languages and Tools:
 [<img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />][instagram]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][instagram]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][instagram]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][instagram]
 
 <br />
@@ -15,9 +14,6 @@ I'm a Software Engineering Student at University of Minho who is currently on th
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaalvim&layout=compact&theme=nord&hide_border=true)
 <img align="left" alt="João's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jotaalvim&show_icons=true&hide_border=true&theme=dracula" />
-
-
-
 
 ### Connect with me:
 
