@@ -13,7 +13,7 @@ I'm a Software Engineering Student at University of Minho who is currently on th
 <br />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaalvim&layout=compact&theme=nord&hide_border=true)
-<img align="left" alt="João's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jotaalvim&show_icons=true&hide_border=true&theme=dracula" />
+<img align="left" alt="João's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jotaalvim&show_icons=true&hide_border=true&theme=gotham" />
 
 ### Connect with me:
 
