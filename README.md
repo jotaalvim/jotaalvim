@@ -5,7 +5,8 @@ I'm a Software Engineering Student at University of Minho who is currently on th
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />][instagram]
+[<img align="left" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />][instagram] 
+[<img align="left" alt="Haskell" width="26px" src="https://iconape.com/wp-content/files/hc/371044/svg/371044.svg" />][instagram]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][instagram]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][instagram]
 
