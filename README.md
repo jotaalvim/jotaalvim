@@ -1,6 +1,6 @@
 ### Hi there, I'm João
 
-I'm a Software Engineering Student at University of Minho who is currently on the second grade
+I'm a Software Engineering Student at University of Minho who is currently on the third grade
 
 <br />
 
