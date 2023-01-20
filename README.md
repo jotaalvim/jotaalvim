@@ -4,6 +4,9 @@ I'm a Software Engineering Student at University of Minho who is currently on th
 
 <br />
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow)
+
+
 ### Languages and Tools:
 [<img align="left" alt="Haskell" width="30px" src="https://iconape.com/wp-content/files/hc/371044/svg/371044.svg" />][instagram]
 [<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" />][instagram]
