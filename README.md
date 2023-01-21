@@ -1,11 +1,17 @@
+
 ### Hi there, I'm João
 
 I'm a Software Engineering Student at University of Minho who is currently on the third grade
 
-<br />
-
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow)
 
+<br />
+
+# "The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise." (E. Dijkstra)
+
+<br />
+
+<br />
 
 ### Languages and Tools:
 [<img align="left" alt="Haskell" width="30px" src="https://iconape.com/wp-content/files/hc/371044/svg/371044.svg" />][instagram]
@@ -14,6 +20,7 @@ I'm a Software Engineering Student at University of Minho who is currently on th
 
 <br />
 <br />
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaalvim&layout=compact&theme=nord&hide_border=true)
 
