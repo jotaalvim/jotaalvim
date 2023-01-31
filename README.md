@@ -11,15 +11,15 @@ I'm a Software Engineering Student at University of Minho who is currently on th
 
 <br />
 
-<br />
+<!---
 
-### Languages and Tools:
-[<img align="left" alt="Haskell" width="30px" src="https://iconape.com/wp-content/files/hc/371044/svg/371044.svg" />][instagram]
-[<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" />][instagram]
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" />][instagram]
+% ### Languages and Tools:
+% [<img align="left" alt="Haskell" width="30px" src="https://iconape.com/wp-content/files/hc/371044/svg/371044.svg" />][instagram]
+% [<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" />][instagram]
+% [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" />][instagram]
 
-<br />
-<br />
+-->
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaalvim&layout=compact&theme=nord&hide_border=true)
