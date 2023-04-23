@@ -3,7 +3,7 @@
 
 I'm a Software Engineering Student at University of Minho who is currently on the third grade
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow)
+
 
 <br />
 
