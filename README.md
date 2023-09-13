@@ -1,17 +1,30 @@
+## About me
+Hey, my name is João Alvim. I’m a computer engineering master student with a love for programming and open-source software, to which I am trying to make more and more contributions.
 
-### Hi there, I'm João
+## Programming
+I was introduced to programming when I was 10 in coderdojo, starting with scratch and soon after beeing introduced to python. Many years later, in university, I got the chance to be a volunteer there, teaching young kids! Also in university, I discovered haskell, and since then, haskell has been my go to language.
 
-I'm a Software Engineering Student at University of Minho who is currently on the third grade
+## Music
+I started learning the harpsichord when I was 6, but two years later I changed to piano. I studied piano until I entered university. Now I'm currently attending piano jazz lessons.
+
+## Programming & Music
+As a musician, I feel that Haskell and Music have an interesting connection. Both have a very special relationship between expressive power and clean notation, making them perfect for abstract and artistic thinking.
+
+## Academic responsibilities
+I also became a colaborattor for the Software Engineering Students Association CeSIUM helping them organize talks and events. Additionally took charge as coach and manager of my university's chess club.
 
 
 
+
+
+
+<!---
 <br />
 
 # "The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise." (E. Dijkstra)
 
 <br />
 
-<!---
 
 % ### Languages and Tools:
 % [<img align="left" alt="Haskell" width="30px" src="https://iconape.com/wp-content/files/hc/371044/svg/371044.svg" />][instagram]
