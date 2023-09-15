@@ -10,11 +10,6 @@ I started learning the harpsichord when I was 6, but two years later I changed t
 ## Programming & Music
 As a musician, I feel that Haskell and Music have an interesting connection. Both have a very special relationship between expressive power and clean notation, making them perfect for abstract and artistic thinking.
 
-## Academic responsibilities
-I also became a colaborattor for the Software Engineering Students Association CeSIUM helping them organize talks and events. Additionally took charge as coach and manager of my university's chess club.
-
-
-
 
 
 
