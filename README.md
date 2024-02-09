@@ -28,9 +28,10 @@ As a musician, I feel that Haskell and Music have an interesting connection. Bot
 
 -->
 
-
+<!--
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaalvim&layout=compact&theme=nord&hide_border=true)
+-->
 
 ### Connect with me:
 
