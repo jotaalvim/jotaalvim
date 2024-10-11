@@ -1,4 +1,4 @@
- My name is João Alvim. I'm in my first year of my masters degree in Formal Methods, Development Validation and Maintenance of Software at University of Minho. I love for programming and open-source software, to which I am trying to make more and more contributions.
+My name is João Alvim. I'm in my second year of my masters degree in Formal Methods, Development Validation and Maintenance of Software at University of Minho. I love for programming and open-source software, to which I am trying to make more and more contributions.
 
 I was introduced to programming when I was 10 in coderdojo, starting with scratch and soon after beeing introduced to python. Many years later, in university, I got the chance to be a volunteer there, teaching young kids! Also in university, I discovered haskell, and since then, haskell has been my go to language.
 
