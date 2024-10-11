@@ -1,16 +1,12 @@
-## About me
-Hey, my name is João Alvim. I’m a computer engineering master student with a love for programming and open-source software, to which I am trying to make more and more contributions.
+ My name is João Alvim. I'm in my first year of my masters degree in Formal Methods, Development Validation and Maintenance of Software at University of Minho. I love for programming and open-source software, to which I am trying to make more and more contributions.
 
-## Programming
 I was introduced to programming when I was 10 in coderdojo, starting with scratch and soon after beeing introduced to python. Many years later, in university, I got the chance to be a volunteer there, teaching young kids! Also in university, I discovered haskell, and since then, haskell has been my go to language.
 
-## Music
-I started learning the harpsichord when I was 6, but two years later I changed to piano. I studied piano until I entered university. Now I'm currently attending piano jazz lessons.
+I started learning the harpsichord when I was 6, but two years later I changed to piano. I studied piano until I enrolled in university. Now I'm currently attending piano jazz lessons.
 
-## Programming & Music
 As a musician, I feel that Haskell and Music have an interesting connection. Both have a very special relationship between expressive power and clean notation, making them perfect for abstract and artistic thinking.
 
-
+Additionally Cofounded a Music Chamber group, Camerata Minhota at my university. Besides colaboratting for the Software Engineering Students Association CeSIUM helping them organize talks and events. Moreover, took charge as coach and manager of my university's chess club. 
 
 
 <!---
