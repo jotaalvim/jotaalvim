@@ -1,3 +1,9 @@
+
+Hello!
+
+My name is João Alvim. I have just finished my masters degree in Formal Methods, Development Validation and Maintenance of Software at University of Minho. I'm curruntly working as full-stack developer with Go at Invisible Lab. I love programming and open-source software, to which I am trying to make more and more contributions. I also like music, chess and rock climbing. 
+
+<!--
  My name is João Alvim. I'm in my second year of my masters degree in Formal Methods, Development Validation and Maintenance of Software at University of Minho. I love for programming and open-source software, to which I am trying to make more and more contributions.
 
 I was introduced to programming when I was 10 in coderdojo, starting with scratch and soon after beeing introduced to python. Many years later, in university, I got the chance to be a volunteer there, teaching young kids! It was also at university that I discovered Haskell. At first, it became my go-to language because it freed me from many programming chores, such as memory management and other low-level tasks. Now, I use it because I find it a more natural way to express ideas, supported by a strong type system.
@@ -5,8 +11,6 @@ I was introduced to programming when I was 10 in coderdojo, starting with scratc
 I started learning the harpsichord when I was 6, but two years later I changed to piano. I studied piano until I enrolled in university. Now I'm currently attending piano jazz lessons.
 
 Additionally Cofounded a Music Chamber group, Camerata Minhota at my university which I now perform with and administrate. Besides colaboratting for the Software Engineering Students Association CeSIUM helping them organize talks and events. Moreover, took charge as coach and manager of my university's chess club.  
-
-<!--
 
 
 % ### Languages and Tools:
